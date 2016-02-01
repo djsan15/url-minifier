@@ -1,0 +1,10 @@
+venv
+.idea/
+*.log
+*.pyc
+*.pid
+*.backup
+*.pid
+ve*
+static_root
+db.sqlite3
